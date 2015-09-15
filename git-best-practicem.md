@@ -1,3 +1,4 @@
 # GIT best practice
 
-dummy text 1
+this is new line from wk-02
+this is new line from wk-03
